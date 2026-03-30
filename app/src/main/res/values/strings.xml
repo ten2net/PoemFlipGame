@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">古诗翻牌</string>
+    <string name="menu_title">古诗翻牌游戏</string>
+    <string name="easy_mode">简单模式</string>
+    <string name="hard_mode">困难模式</string>
+    <string name="stats">统计</string>
+    <string name="game_rules">游戏规则</string>
+    <string name="rule_1">1. 在60秒内翻转5张木牌</string>
+    <string name="rule_2">2. 翻出的5个字要能组成一句古诗</string>
+    <string name="rule_3">3. 成功即可进入下一关</string>
+    <string name="time_remaining">剩余时间</string>
+    <string name="flipped_count">已翻牌</string>
+    <string name="success">成功</string>
+    <string name="failure">失败</string>
+    <string name="play_again">再玩一次</string>
+    <string name="back_to_menu">返回菜单</string>
+</resources>
