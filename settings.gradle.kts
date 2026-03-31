@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "PoemFlipGame"
-include ':app'
+include(":app")
